@@ -1,4 +1,4 @@
-![MenuManager Logo]([https://i.imgur.com/SwV2ZQF.png](https://images.pexels.com/photos/17852535/pexels-photo-17852535/free-photo-of-a-chalkboard-sign-on-the-outside-of-a-cafe.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)) <!-- This is just a placeholder image, you can replace with a logo if you have one -->
+![VincentMenuManager Logo](https://images.pexels.com/photos/17852535/pexels-photo-17852535/free-photo-of-a-chalkboard-sign-on-the-outside-of-a-cafe.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) <!-- This is just a placeholder image, you can replace with a logo if you have one -->
 
 # MenuManager
 A sleek and intuitive web-based menu management system, built to simplify restaurant operations.(Heroku recommended to hold node.js) 
