@@ -1,23 +1,24 @@
-![VincentMenuManager Logo](https://i.imgur.com/SwV2ZQF.png) <!-- This is just a placeholder image, you can replace with a logo if you have one -->
+![MenuManager Logo]([https://i.imgur.com/SwV2ZQF.png](https://images.pexels.com/photos/17852535/pexels-photo-17852535/free-photo-of-a-chalkboard-sign-on-the-outside-of-a-cafe.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)) <!-- This is just a placeholder image, you can replace with a logo if you have one -->
 
-# VincentMenuManager
-A sleek and intuitive web-based menu management system, built to simplify restaurant operations.
+# MenuManager
+A sleek and intuitive web-based menu management system, built to simplify restaurant operations.(Heroku recommended to hold node.js) 
 
 ---
 
 ### 🍔 Overview
 
-VincentMenuManager provides restaurant owners with a straightforward solution to manage and update their menus dynamically. With a modern UI and user-friendly features, updating menu items, prices, and images has never been easier!
+MenuManager provides restaurant owners with a straightforward solution to manage and update their menus dynamically. With a modern UI and user-friendly features, updating menu items, prices, and images has never been easier!
 
 ---
 
 ### 🍣 Features
 
+- **A new CMS:** Super simplified content manager to GET, POST, DELETE and PUT.
 - **Dynamic Menu Rendering:** Instantly see how your menu will look to your customers.
 - **Category Management:** Easily categorize menu items for better organization.
 - **Item Derivatives:** Offer variations or derivatives for any menu item.
 - **Image Uploads:** Give customers a preview of what they can expect on their plate.
-  
+
 ---
 
 ### 🍜 Screenshots
@@ -34,4 +35,4 @@ VincentMenuManager provides restaurant owners with a straightforward solution to
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/VincentMenuManager.git
+git clone https://github.com/YourUsername/MenuManager.git
