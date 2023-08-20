@@ -25,7 +25,7 @@ MenuManager provides restaurant owners with a straightforward solution to manage
 
 | Main Interface                      | Item Edit                       |
 | ----------------------------------- | --------------------------------|
-| ![Main Interface](.src/img/Screenshot (101).png) | ![Item Edit](.src/img/Screenshot (101).png) |
+| ![Main Interface](./src/img/Screenshot (101).png) | ![Item Edit](./src/img/Screenshot (101).png) |
 
 > Note: These are just placeholder images, please replace them with actual screenshots.
 
