@@ -1,0 +1,75 @@
+[
+  {
+    "section": "ice Coffees",
+    "items": [
+      {
+        "name": "Ice Americano",
+        "price": 40,
+        "image": "https://media.istockphoto.com/id/1345035853/tr/foto%C4%9Fraf/cold-brew-with-full-of-ice-and-black-straw-on-a-white-background-delicious-cold-beverage.jpg?s=612x612&w=0&k=20&c=ATRljX1mrFLgWHmRVCRU-XcOsPErwy9V6ueqwkRYNiM="
+      }
+    ]
+  },
+  {
+    "section": "Coffees",
+    "items": [
+      {
+        "name": "Espresso",
+        "price": 30,
+        "image": "https://media.istockphoto.com/id/664313320/tr/foto%C4%9Fraf/espresso-kahve-fincan%C4%B1-ile-vintage-masaya-fasulye.jpg?s=612x612&w=0&k=20&c=xBiqjxfyTPic4ZGEqExhXE7Hq66mBhrOwBwbVtNC7fQ=",
+        "derivatives": [
+          {
+            "name": "Single",
+            "price": 30
+          },
+          {
+            "name": "Double",
+            "price": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "iced Drinks",
+    "items": [
+      {
+        "name": "Ice Tea",
+        "price": 35,
+        "image": "https://media.istockphoto.com/id/697020580/tr/foto%C4%9Fraf/buzlu-%C3%A7ay.jpg?s=612x612&w=0&k=20&c=XWNzLlPbBBcsk0xfafERnK3l0QSQC-Q_b2n1Yp3iARU="
+      }
+    ]
+  },
+  {
+    "section": "Tea",
+    "items": [
+      {
+        "name": "Tea",
+        "price": 15,
+        "image": "https://media.istockphoto.com/id/1280227708/tr/foto%C4%9Fraf/%C3%A7aydanl%C4%B1ktan-d%C3%B6k%C3%BClen-demlenmi%C5%9F-siyah-t%C3%BCrk-%C3%A7ay%C4%B1-barda%C4%9F%C4%B1-geleneksel-s%C4%B1cak-i%C3%A7ecek-konsepti.jpg?s=612x612&w=0&k=20&c=AOkA-YHtj_PhFZanawPfSOHrCqcBmhAOJlFV0MD8WXQ="
+      }
+      
+    ]
+  },
+  {
+    "section": "Snacks",
+    "items": [
+     
+      {
+        "name": "Grilled Cheese",
+        "price": 40,
+        "image": "https://media.istockphoto.com/id/1202752826/tr/foto%C4%9Fraf/peynirli-ve-jambonlu-k%C4%B1zarm%C4%B1%C5%9F-sandvi%C3%A7.jpg?s=612x612&w=0&k=20&c=qgK3ALZdxsphHvXIp4OeRGQsH223OkUab9AKPvgaFJg="
+      }
+    ]
+  },
+  {
+    "section": "Cold Drinks",
+    "items": [
+      
+      {
+        "name": "Water",
+        "price": 15,
+        "image": "https://media.istockphoto.com/id/1168764764/tr/foto%C4%9Fraf/tatl%C4%B1-su.jpg?s=612x612&w=0&k=20&c=FBcWmqcwAYY1-fBAyhFS4Y7n4-dEXICrdAStjEe__wg="
+      }
+    ]
+  }
+]
