@@ -36,3 +36,5 @@ MenuManager provides restaurant owners with a straightforward solution to manage
 1. Clone the repository:
 ```bash
 git clone https://github.com/YourUsername/MenuManager.git
+
+Warning: Won't be functional unless you set up(locally or on cloud) JSON data file.
