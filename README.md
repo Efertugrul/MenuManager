@@ -27,7 +27,7 @@ MenuManager provides restaurant owners with a straightforward solution to manage
 | ----------------------------------- | --------------------------------|
 | ![Main Interface](./src/img/img1.png) | ![Item Edit](./src/img/img2.png) |
 
-> Note: These are just placeholder images, please replace them with actual screenshots.
+
 
 ---
 
